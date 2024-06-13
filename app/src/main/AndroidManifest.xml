@@ -21,6 +21,10 @@
             android:exported="false"
             android:theme="@style/Theme.Androidfirebaseseries" />
         <activity
+            android:name=".FormActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Androidfirebaseseries" />
+        <activity
             android:name=".SignupActivity"
             android:exported="true" >
             <intent-filter>

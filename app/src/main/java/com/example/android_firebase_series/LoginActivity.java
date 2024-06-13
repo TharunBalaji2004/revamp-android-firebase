@@ -66,3 +66,8 @@ public class LoginActivity extends AppCompatActivity {
     }
 }
 
+
+// 1. Add Firestore SDK
+// 2. Initialize Firestore
+// 3. Implement CRUD operations
+
