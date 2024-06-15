@@ -24,6 +24,10 @@
             android:name=".FormActivity"
             android:exported="false"
             android:theme="@style/Theme.Androidfirebaseseries" />
+        <activity android:name=".DataScreen"
+            android:exported="true" />
+        <activity android:name=".UpdateScreen"
+            android:exported="true" />
         <activity
             android:name=".SignupActivity"
             android:exported="true" >
