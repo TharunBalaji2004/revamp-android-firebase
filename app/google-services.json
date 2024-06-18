@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419739557424",
+    "project_id": "revamp-redbus-clone",
+    "storage_bucket": "revamp-redbus-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419739557424:android:38635676dd85b9c3dd97f5",
+        "android_client_info": {
+          "package_name": "com.example.revamp_redbus_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOlImVtCvXQshKsDjHWNvUxsYz2660ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
